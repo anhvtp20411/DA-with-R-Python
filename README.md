@@ -1,10 +1,11 @@
-# DA-with-R-Python
-Project "SALE FORCAST BY MACHINE LEARNING: KNN, LINEAR REGRESSION, DECISION TREE, RANDOM FOREST"
+**Project "SALE FORCAST BY MACHINE LEARNING: KNN, LINEAR REGRESSION, DECISION TREE, RANDOM FOREST"**
 Subject: Data Analysis with R/Python
 Instructor: M.Sc. Nguyen Phat Dat
+Teacher Assistant: Tran Le Tan Thinh
 Faculty of Information System, University of Economics and Law
 
 This is the final project for a subject of a student team at UEL. In this project, we build 4 machine learning model (KNN, Linear Regression, Decision Tree, Random Forest) to forecast sales and find out the features that contribute significantly to sales forecast. The final result shows that Random Forest is the best model with the highest scores in R2, MSE, RMSE, RMPSE.
+
 ---------
 Data
 - Name: Rossmann Store Sales
