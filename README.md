@@ -11,6 +11,8 @@ Data
 - Name: Rossmann Store Sales
 - Link: https://www.kaggle.com/competitions/rossmann-store-sales/data
 
+Tool: Google Collab
+
 Content:
 1. EDA
 2. KNN model
