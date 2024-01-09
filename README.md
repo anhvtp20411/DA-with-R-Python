@@ -22,7 +22,7 @@ Content:
 
 ---------
 Contributors:
-- Vu Thi Phuong Anh
+- Vu Thi Phuong Anh (team leader)
 - Le Thi Thuy Linh
 - Nguyen Thi Thanh Binh
 - Dinh Thi Thuy An
